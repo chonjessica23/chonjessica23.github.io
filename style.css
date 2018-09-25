@@ -1,0 +1,17 @@
+body{
+	background-color: pink;
+}
+
+.text{
+	font-family: arial;
+	font-size: 16px;
+	text-align: center;
+}
+
+#opinion{
+	color: green;
+}
+
+#about{
+	color: blue;
+}
